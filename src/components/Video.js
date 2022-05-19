@@ -3,7 +3,7 @@ const Video=({name})=>{
     return (
       <div>
   
-        Hello {name}
+        <h1 className="text-3xl font-bold underline">Hello {name}</h1>
   
   
         <p style={paragraphStyling} className='main-paragraph' >We are in the third day of the week
